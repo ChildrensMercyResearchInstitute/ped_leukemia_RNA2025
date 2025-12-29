@@ -3,6 +3,8 @@ Analysis code (in R) for analysis of bulk and single-cell RNAseq data from pedia
 
 In this study, we generated bulk and single-cell RNAseq profiles for a total of 69 pediatric leukemia patients treated at Children's Mercy Kansas City. The code here details data processing and differential expression analysis, as well as generating the figures for the manuscript (link to be generated). 
 
+Manuscript available on [bioRxiv](https://www.biorxiv.org/content/10.64898/2025.12.23.696262v1).
+
 # Data availability
 Raw data (both bulk and single-cell) are available through [dbGaP](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002529.v2.p1). Processed single-cell data are available through the [Single Cell Portal](https://singlecell.broadinstitute.org/single_cell/study/SCP3385/single-cell-profiling-of-pediatric-leukemia-patient-samples).
 
